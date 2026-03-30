@@ -1,0 +1,6 @@
+System started successfully
+Error: failed to load module
+Warning: low memory
+ERROR: disk not found
+All systems normal
+error: connection timeout
